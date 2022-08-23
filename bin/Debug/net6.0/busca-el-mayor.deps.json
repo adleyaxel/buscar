@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "busca-el-mayor/1.0.0": {
+        "runtime": {
+          "busca-el-mayor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "busca-el-mayor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

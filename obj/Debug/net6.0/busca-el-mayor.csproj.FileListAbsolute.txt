@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\bin\Debug\net6.0\busca-el-mayor.exe
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\bin\Debug\net6.0\busca-el-mayor.deps.json
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\bin\Debug\net6.0\busca-el-mayor.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\bin\Debug\net6.0\busca-el-mayor.dll
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\bin\Debug\net6.0\busca-el-mayor.pdb
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.dll
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\refint\busca-el-mayor.dll
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.pdb
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\busca-el-mayor.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\busca-el-mayor\obj\Debug\net6.0\ref\busca-el-mayor.dll
